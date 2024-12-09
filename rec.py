@@ -15,7 +15,6 @@ while r <= R:
     recepsuSk = [int(sk) for sk in recepsuSk]
     recep.append(recepsuSk)
     r += 1
-#print(recep)
 
 for rec in recep:
     rezul = []
