@@ -15,6 +15,3 @@ try:
         print("Skaitļi ir ārpus intervāla!")
 except:
     print("Kļūda!")
-    
-    # ufhiusagflioudflkausgflikagflikaugfiluf
-    
